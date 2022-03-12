@@ -15,6 +15,17 @@
   "timestamp": "2021-05-08T12:15:51.633Z",
   "tokens": [
     {
+      "name": "Wrapped Venom",
+      "chainId": 100,
+      "symbol": "WENOM",
+      "decimals": 9,
+      "address": "0:2c837e52b23da1655bfc32eca45dd267711bcbed96df3ebb3ed81665d36bc80e",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/WENOM/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
+    },
+    {
       "name": "Tether",
       "chainId": 100,
       "symbol": "USDT",
