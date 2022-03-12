@@ -1,0 +1,62 @@
+{
+  "$schema": "https://raw.githubusercontent.com/broxus/ton-assets/master/schemas/manifest.json",
+  "name": "TIP3 Tokens List",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 3
+  },
+  "keywords": [
+    "ton",
+    "venom",
+    "tip3",
+    "tokens"
+  ],
+  "timestamp": "2021-05-08T12:15:51.633Z",
+  "tokens": [
+    {
+      "name": "Tether",
+      "chainId": 100,
+      "symbol": "USDT",
+      "decimals": 6,
+      "address": "0:b280d84f8f3325380be1186bec16118ab51e9d80cfaf67d1a464fff45ee0d430",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/USDT/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
+    },
+    {
+      "name": "USD Coin",
+      "chainId": 100,
+      "symbol": "USDC",
+      "decimals": 6,
+      "address": "0:a21e89ce5c2948023764257cdc1edb31441b8baa15ce0add16b98f14cb410086",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/USDC/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
+    },
+    {
+      "name": "Wrapped BTC",
+      "chainId": 100,
+      "symbol": "WBTC",
+      "decimals": 8,
+      "address": "0:a567261a13e3ecf67bffcd3b885c4e9086f336ce5ca6979d4f9e5296210d95bc",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/WBTC/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
+    },
+    {
+      "name": "Wrapped Ether",
+      "chainId": 100,
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0:3c70e0778dedefc9f97aefba5a7ed306234a03750ee778ca9cef3e0600b7cb65",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/WETH/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
+    }
+  ]
+}
