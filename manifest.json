@@ -53,6 +53,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "address": "0:4409770f242f4d3d4c96aa464ee9a96032f936e656fc89fc68ec958776764acc",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/DAI/logo.svg",
       "version": 5,
       "verified": true,
       "vendor": "venom"
@@ -85,6 +86,7 @@
       "symbol": "YOSHI",
       "decimals": 18,
       "address": "0:b825bb03a5a3b854f9d8ca0669ed1739ef093cb9cf8684b70d957ce184f4d365",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/YOSHI/logo.svg",
       "version": 5,
       "verified": true,
       "vendor": "venom"
