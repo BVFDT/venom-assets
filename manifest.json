@@ -100,6 +100,16 @@
       "version": 5,
       "verified": true,
       "vendor": "venom"
+    },
+    {
+      "name": "Web3.World DEX",
+      "chainId": 1000,
+      "symbol": "W3W",
+      "decimals": 18,
+      "address": "0:914f49c220916999d703b4a94665b055363983f599b1e35f22eda9f17f169d0e",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
     }
   ]
 }
