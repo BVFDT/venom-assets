@@ -97,6 +97,7 @@
       "symbol": "BRIDGE",
       "decimals": 9,
       "address": "0:3b628cd04275187ee5a1ded2a3dcefa475fd319589e5f47bfca3d74a11d687db",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/BRIDGE/logo.svg",
       "version": 5,
       "verified": true,
       "vendor": "venom"
@@ -107,6 +108,62 @@
       "symbol": "W3W",
       "decimals": 18,
       "address": "0:914f49c220916999d703b4a94665b055363983f599b1e35f22eda9f17f169d0e",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/W3W/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
+    },
+    {
+      "name": "BUSD",
+      "chainId": 1000,
+      "symbol": "BUSD",
+      "decimals": 18,
+      "address": "0:3926bfa6e533a13ed906f97dd815812c98e6581330284ef3f867931dae904787",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/BUSD/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
+    },
+    {
+      "name": "Fantom",
+      "chainId": 1000,
+      "symbol": "FTM",
+      "decimals": 18,
+      "address": "0:7b68fec3f852fad947c24323b54f9e38833b223f9cee5d105adbca2196b06de2",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/FTM/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
+    },
+    {
+      "name": "BNB",
+      "chainId": 1000,
+      "symbol": "BNB",
+      "decimals": 18,
+      "address": "0:7589f616de714da2a708dbd313ba5bda9b3fceb0139c48c19a88d4b6efb51629",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/BNB/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
+    },
+    {
+      "name": "1ART",
+      "chainId": 1000,
+      "symbol": "1ART",
+      "decimals": 18,
+      "address": "0:7f4412548fcb8fd4a12a29ee8f3aaad4e5fe3aedf8f4903d74252fdd5f1c6f3f",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/1ART/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
+    },
+    {
+      "name": "Shiba Inu",
+      "chainId": 1000,
+      "symbol": "SHIB",
+      "decimals": 18,
+      "address": "0:df2300ded75e47e7d5ba449408a8e5f37f58432e27bd4c4fa01c28ffddc8b715",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/SHIB/logo.svg",
       "version": 5,
       "verified": true,
       "vendor": "venom"

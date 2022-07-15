@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Assets/logo/token/token_light</title>
+    <defs>
+        <radialGradient cx="0%" cy="100%" fx="0%" fy="100%" r="76.0287746%" gradientTransform="translate(0.000000,1.000000),rotate(85.302023),scale(1.000000,1.297392),translate(-0.000000,-1.000000)" id="radialGradient-1">
+            <stop stop-color="#E06BF8" offset="0%"></stop>
+            <stop stop-color="#F8876B" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="100%" fx="100%" fy="100%" r="57.7018364%" gradientTransform="translate(1.000000,1.000000),rotate(134.496323),scale(1.000000,1.587734),translate(-1.000000,-1.000000)" id="radialGradient-2">
+            <stop stop-color="#00BF98" offset="0%"></stop>
+            <stop stop-color="#00BF98" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="92.364759%" cy="-26.3017296%" fx="92.364759%" fy="-26.3017296%" r="88.1009819%" gradientTransform="translate(0.923648,-0.263017),rotate(90.000000),scale(1.000000,1.297392),translate(-0.923648,0.263017)" id="radialGradient-3">
+            <stop stop-color="#E06BF8" offset="0%"></stop>
+            <stop stop-color="#E06BF8" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-4" cx="100" cy="100" r="100"></circle>
+    </defs>
+    <g id="Assets/logo/token/token_light" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1" transform="translate(20.000000, 20.000000)">
+            <g id="Oval">
+                <use fill="#246CF6" xlink:href="#path-4"></use>
+                <use fill="url(#radialGradient-1)" xlink:href="#path-4"></use>
+                <use fill="url(#radialGradient-2)" xlink:href="#path-4"></use>
+                <use fill="url(#radialGradient-3)" xlink:href="#path-4"></use>
+            </g>
+            <path d="M101.802204,41.8876593 C108.367608,37.3244064 117.318922,41.9420041 117.497292,49.8842405 L117.5,50.1259259 L117.5,148.618519 C117.5,154.155003 113.022847,158.64321 107.5,158.64321 C102.034682,158.64321 97.5933875,154.24802 97.5014535,148.791189 L97.5,148.618519 L97.5,69.2740889 L75.6977962,84.4283901 C71.2095634,87.5479151 65.067073,86.476464 61.8880537,82.0523832 L61.7820247,81.9019883 C58.6701832,77.4026734 59.7389953,71.2450164 64.1521793,68.0581477 L64.3022038,67.9518568 L101.802204,41.8876593 Z" id="Path" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
