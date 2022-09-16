@@ -167,6 +167,17 @@
       "version": 5,
       "verified": true,
       "vendor": "venom"
+    },
+    {
+      "name": "LiqBot",
+      "chainId": 1000,
+      "symbol": "LIQ",
+      "decimals": 9,
+      "address": "0:65ae918c2e16f62677f3882b88f2dcd80a7b3f49bddd2578604d449436e56afa",
+      "logoURI": "https://raw.githubusercontent.com/BVFDT/venom-assets/master/icons/LIQ/logo.svg",
+      "version": 5,
+      "verified": true,
+      "vendor": "venom"
     }
   ]
 }
